@@ -85,3 +85,16 @@ Bug reports and suggestions are welcome through GitHub Issues. Do not include pa
 ---
 
 OncoLens is an evidence-discovery aid for research and education only. It does not replace professional judgment, molecular tumor board review, current guidelines, regulatory labeling, or consultation of the original evidence.
+
+
+## Screenshots
+
+The screenshots below show the same molecular query across OncoLens evidence views.
+
+| Search overview | Published literature |
+| --- | --- |
+| ![OncoLens search for BRAF V600E in melanoma](Screenshot%202026-10-16%20125644.png) | ![OncoLens literature results](Screenshot%202026-10-16%20125717.png) |
+
+| Targeted therapy evidence | Knowledge annotations |
+| --- | --- |
+| ![OncoLens targeted therapy evidence](Screenshot%202026-10-16%20125733.png) | ![OncoLens knowledge annotations](Screenshot%202026-10-16%20125816.png) |
