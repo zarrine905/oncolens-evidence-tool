@@ -5,6 +5,9 @@
 > **Research prototype · Not for clinical decision-making**  
 > OncoLens is an early evidence-discovery prototype. It is not a medical device or clinical decision-support system, and it does not recommend or select treatment. Verify findings in their original sources and against current institutional guidance. **Do not enter patient-identifiable or protected health information.**
 
+<img width="1474" height="696" alt="image" src="https://github.com/user-attachments/assets/2286227d-1aed-439c-a69c-2cefa31fe2f5" />
+
+
 ## What you can do
 
 - **Search a gene and context:** enter a gene symbol, optional alteration, cancer type, and regulator region. HGNC symbol and alias lookup helps normalize gene names when available.
